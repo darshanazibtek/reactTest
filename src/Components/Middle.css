@@ -1,0 +1,12 @@
+.redline{
+    position: relative;
+    background-color: rgb(141, 50, 50);
+    height: 40px;
+    top: -40px;
+    z-index: 1;
+  }
+
+  .midcar{
+      margin-top: 10px;
+      z-index: -1;
+  }
